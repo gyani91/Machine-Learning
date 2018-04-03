@@ -1,0 +1,16 @@
+digraph {
+	graph [rankdir=LR]
+	Game [shape=box]
+	Chat [shape=box]
+	Rest [shape=box]
+	Rainy -> Sunny [label=0.3]
+	Rainy -> Rainy [label=0.7]
+	Sunny -> Rainy [label=0.6]
+	Sunny -> Sunny [label=0.4]
+	Rainy -> Game [label=0.1]
+	Rainy -> Chat [label=0.3]
+	Rainy -> Rest [label=0.6]
+	Sunny -> Game [label=0.5]
+	Sunny -> Chat [label=0.2]
+	Sunny -> Rest [label=0.3]
+}
