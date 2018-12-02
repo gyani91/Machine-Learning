@@ -1,9 +1,10 @@
 # keras-oneshot
 ![oneshot task](images/task_25.png)
+This is an adaption of Soren Bouma's [code](https://github.com/sorenbouma/keras-oneshot)
 [koch et al, Siamese Networks for one-shot learning,](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)  reimplimented in keras. 
 Trains on the [Omniglot dataset]( https://github.com/brendenlake/omniglot).
 
-Also check out the code's original author's [blog post](https://sorenbouma.github.io/blog/oneshot) about this paper and one shot learning in general!
+Also check out Soren Bouma's [blog post](https://sorenbouma.github.io/blog/oneshot) about this paper and one shot learning in general!
 
 
 
