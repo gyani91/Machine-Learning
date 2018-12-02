@@ -13,8 +13,8 @@ Also check out the code's original author's [blog post](https://sorenbouma.githu
 To run, you'll first have to clone this repo and install the dependencies
 
 ```bash
-git clone https://github.com/gyani91/One-Shot-Learning
-cd One-Shot-Learning
+git clone https://github.com/gyani91/Machine-Learning
+cd Machine-Learning/One-Shot-Learning
 sudo pip install -r requirements.txt
 
 ```
